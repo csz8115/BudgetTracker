@@ -10,5 +10,6 @@ public enum Category {
     EDUCATION,
     DEBT,
     SAVINGS,
+    RECCURING,
     OTHER
 }
